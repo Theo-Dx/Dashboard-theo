@@ -1,4 +1,4 @@
-exo1
+=======================Exercice_1=======================
 
 Installation npm (node-v22.14.0-x64.msi) que j'ai trouver sur leur site 
 mais j'ai eu un problème de restriction
@@ -23,7 +23,7 @@ Solutions -> https://stackoverflow.com/questions/65635346/how-can-i-enable-cors-
 
 
 
-COMMENT LANCER EXO1
+COMMENT LANCER EXERCICE_1
 
 
 mettre dans le terminal les commandes ci-dessous :
@@ -41,7 +41,10 @@ npm start                            lancer le frontend
 
 
 
-exo2
+=======================Exercice_2=======================
 
 j'ai choisi l'option bash car cela me semblais plus simple que sur python
 je n'avais pas curl sur mon système   ->     sudo apt update && sudo apt install curl -y
+
+COMMENT LANCER EXERCICE_1
+./ScriptExo2.sh
